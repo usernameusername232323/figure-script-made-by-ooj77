@@ -1,0 +1,22 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("figure lib", "Synapse")
+
+
+--main
+
+local Main = Window:NewTab("lib figure")
+local MainSection = Main:NewSection("figure main place to smoke niggas")
+
+MainSection:NewButton("figure main lock+legit", "slaps u", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/usernameusername232323/test-mianyt/main/locky"))();
+end)
+
+MainSection:NewButton("figure q tool script ", "q tool", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/usernameusername232323/testermainty/main/testermaintyynig", true))()
+end)
+
+
+
+MainSection:NewButton("figures fe invisble (maybe wont work) ", "invisble", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/usernameusername232323/testting-/main/tester"))();
+end)
